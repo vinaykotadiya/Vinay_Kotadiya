@@ -1,3 +1,4 @@
+VINAY KOTADIYA
 # 💫 About Me:
 Data Analyst | MSc Data Science Graduate 🎓<br>Skilled in Python, SQL, Power BI, Tableau & Excel.<br>Building data-driven projects in business analytics, dashboards, customer segmentation, churn prediction & forecasting.<br>Turning data into actionable insights.
 
